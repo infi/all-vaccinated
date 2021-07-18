@@ -1,6 +1,6 @@
 # All Vaccinated  
 
-Calculates the percentage of fully vaccinated people in Germany using official data.  
+Calculates the percentage of people in Germany fully vaccinated against COVID-19 using official data.  
   
 The [Impfdashboard](https://impfdashboard.de) is a fantastic service for getting reliable and current vaccination statistics.  
 However, it does not display the total percentage of people that are fully vaccinated: Only the percentage of people that
